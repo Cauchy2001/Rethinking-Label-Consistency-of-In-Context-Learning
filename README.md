@@ -14,9 +14,9 @@ The reference works and related projects are as follows:
 Note: OpenICL requires Python 3.8+
 **Installation for local development:**
 ```
-git clone https://github.com/Cauchy2001/TopK-SD_for_ICL.git
+git clone https://github.com/Cauchy2001/Rethinking-Label-Consistency-of-In-Context-Learning.git
 
-cd TopK-SD_for_ICL
+cd Rethinking-Label-Consistency-of-In-Context-Learning
 pip install -e .
 ```
 
@@ -27,6 +27,6 @@ Our code is placed under the "exp" folder, and "run_classfication.py" is the cod
 
 cd exp
 
-CUDA_VISIBLE_DEVICES=0 python run_classification.py
+CUDA_VISIBLE_DEVICES=0 python run_TopKSD.py
 ```
 
