@@ -1,6 +1,6 @@
 #  Data Synthesis 
 
-![chart](https://github.com/Cauchy2001/TopK-SD_for_ICL/blob/main/chart.png)
+![chart](https://github.com/Cauchy2001/Rethinking-Label-Consistency-of-In-Context-Learning/blob/main/chart.png)
 
 ## Overview
 
