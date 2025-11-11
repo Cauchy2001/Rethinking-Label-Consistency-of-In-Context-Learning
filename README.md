@@ -4,7 +4,7 @@
 
 ## Overview
 
-This code is for the paper _TopK Sampling with Synthetic Data for In-Context Learning_. Our code is based on the <a href="https://github.com/Shark-NLP/OpenICL/tree/main">OpenICL repository</a> and <a href="https://github.com/Romainpkq/revisit_demon_selection_in_ICL">revisit_demon_selection_in_ICL repository</a>.
+This code is for the paper _Rethinking Label Consistency of In-Context Learning: An Implicit Transductive Label Propagation Perspective_. Our code is based on the <a href="https://github.com/Shark-NLP/OpenICL/tree/main">OpenICL repository</a> and <a href="https://github.com/Romainpkq/revisit_demon_selection_in_ICL">revisit_demon_selection_in_ICL repository</a>.
 
 The reference works and related projects are as follows:
 
